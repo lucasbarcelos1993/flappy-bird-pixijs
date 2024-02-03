@@ -1,3 +1,4 @@
+/*
 const filesToCache = [
     "/",
     "index.html",
@@ -57,3 +58,6 @@ self.addEventListener('activate', event => {
     })
   );
 });
+
+
+*/
